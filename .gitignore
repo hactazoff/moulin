@@ -1,0 +1,4 @@
+# hide all pycache folders in gitignore
+
+# ignore all .pyc files
+__pycache__/
